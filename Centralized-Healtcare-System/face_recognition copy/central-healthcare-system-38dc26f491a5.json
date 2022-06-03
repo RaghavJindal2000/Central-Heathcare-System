@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "central-healthcare-system",
+  "private_key_id": "38dc26f491a59adae27125de3af68962c34647ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5DprCMSV9R415\nOVjFXYkO8TQUYdM+TPO8Zgxgis5NPGcUbBym7uMGwXelZB3LQ9+y+NLSCXuZe1z6\nkBEntEpm4BXSyhIBrDcTW8/lgFHs3TcMkDh/FgoFeBoDufKmqtizYVTBfCwQ9Wdq\nooUJ4HEZO2Idi7WM9zyEwlt4I1k3LXPt/7TlbSswfPp+8HuBSEE3kkXoTczL+2nI\nS4ZHx3FGB/D7xqtnRgMxYw65LkATR36PWmjdkuLgU5jA5+oUBoSkFBtz4FWxlQHg\nJDkmegmFohoR8Kgn7//ON5wm7iaLMr0GAaO1Kri6hdTRUi6d7DyYc/4mMlfquvK/\nB326PGobAgMBAAECggEAFyPIiIltBtDN07+EJk26B9MeWtbD+4bTdWvh6/0qAHC8\nnPT10jk4dyL1oIniddpwsZLj3bKk22jDFBZepsh9rdvNrslos1Utn9nmUZbC58De\nPiUXLhZQk3rUmexZogCRT0DXlcgT7zJDHQuMYiidS8qSoV9+XfhDqirEFZjUnOL3\nR+PBA2Mso8jq93YYiq+rlVXQvpSB6/gqEPP3c6rIyZx7Zyr2I/gMHLgYECEjH9lN\n4nSWMR/2cWzR4JrQEnTJxavGf6JM4Rb2ZE0dtXsaD9Vd7QNilbFOcVzZ7Go7ssRH\nHjXpcb2GOGHrynwEX36qXQ9J32WuktdhoTwSaB9HgQKBgQDud+7NOZDlllaMhzAV\n6f/10Z92vYitSpmEiQCWPt+L2MNC9GsKmo5gSJ4sDBE1+QksPCb54a+TnBZSF1T4\nulbb9R2Qcy6butV1IAjXNVyQCR6dKBABNr2BGtWIl9u94J/iF3bGOl+2kCZC0syA\nXG8XpomYBOvBHdH3uN61xUikmwKBgQDGqXK+c7ZovLLo2daLmv5FISBhKViRGi0C\n+mNxSw7RApP4OkGJ+fYguioHdrxApDFYRe4r8CHH28sWWnRtTeR82IEmtPdfsPRU\nOas5H/QszSeVpKWgt8sdb/mxLacdQpWWR2FtPi31uDiMD82vr+8OqMD+VlAfhfOf\npVJoeS/ogQKBgElOENiBY6tPxZc5T2zNG+PC5pQnu0YZ8ostWkLVXP6uSYfhfq4p\nyK6MZCMCKqA+x7UTYJ/b4o8roijmBzbWgTDobogjACbbDhcNG+qb+rJEO2bwE8tr\numFfkFiG5gO+cyebMuXIt/d05G4SQs8KmxPYG9/hU19v/UV7TOrvlF8VAoGBAK/7\nVQj/KfwYBIieyB49O7dzQ+KuJKXNQUhdFBA9RC/Ej92ZhYs7YVvWbfrUpKjCim++\n6uADRXls67eug2p8UMaDZ80pC+W5tIaT22isNLonNkSqaIo5pfU6xz67yUjzPd20\n98o1BbOg8H6qVTOnryYWOXhUb3+tQoYOhjTD/buBAoGAB14Ry2HNOMQcHPiOHbfg\nGLrmtPCBUznMzNhBYrMxqMoDYex4IY0aR8pSueC9WgSajPXGNX9zYzJK4xcpJyIY\nwTWinaYX7Ry6KB+vo7fYwJ7+axXR1LBu/dga99NS4V+pac+tFZMC75o+ImfgJFOr\nV3NlXOpflUndFC48lNaVqYE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "central-healthcare-system@central-healthcare-system.iam.gserviceaccount.com",
+  "client_id": "112017887621603299703",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/central-healthcare-system%40central-healthcare-system.iam.gserviceaccount.com"
+}
